@@ -1,7 +1,10 @@
 .mybutton {
-  color: green
+  color: green;
+  text-align: middle;
+  border-style: double;
 }
 
 .navbar{
-  background-color: #b0cff7
+  background-color: #b0cff7;
+  height: 20px
 }
