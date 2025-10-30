@@ -17,6 +17,6 @@ h1 {
   display: flex;
   background-color: #b0cff7;
   height: 50px;
-  text-align: center;
+  align-items: center;
   justify-content: center;
 }
