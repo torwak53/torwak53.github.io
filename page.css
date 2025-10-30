@@ -15,7 +15,8 @@ h1 {
 }
 
 .mybutton:hover{
-  background-color: #558ff2
+  background-color: #558ff2;
+  color: red;
 }
 
 #now{
