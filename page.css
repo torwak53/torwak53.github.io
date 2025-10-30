@@ -13,6 +13,10 @@ h1 {
   padding: 10px;
 }
 
+.mybutton:hover{
+  background-color: #558ff2
+}
+
 .navbar{
   display: flex;
   background-color: #b0cff7;
