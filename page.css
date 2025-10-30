@@ -24,6 +24,9 @@ h1 {
   height: 50px;
   align-items: center;
   justify-content: center;
+  border-style: double;
+  border-color: black;7
+  border-width: 6px; 
 }
 
 
