@@ -11,7 +11,9 @@ h1 {
 }
 
 .navbar{
+  display: flex;
   background-color: #b0cff7;
   height: 50px;
   text-align: center;
+  justify-content: center;
 }
