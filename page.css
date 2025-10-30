@@ -6,6 +6,7 @@ h1 {
   color: green;
   text-align: center;
   border-style: double;
+  border-color: black;
   background-color: red;
 }
 
