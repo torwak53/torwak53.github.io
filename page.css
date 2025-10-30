@@ -11,6 +11,7 @@ h1 {
   background-color: red;
   margin: 15px;
   padding: 10px;
+  text-decoration: none;
 }
 
 .mybutton:hover{
@@ -25,6 +26,4 @@ h1 {
   justify-content: center;
 }
 
-a:link{
-  text-decoration: none;
-}
+
