@@ -9,6 +9,7 @@ h1 {
   border-color: black;7
   border-width: 3px; 
   background-color: red;
+  height: 30px;
 }
 
 .navbar{
