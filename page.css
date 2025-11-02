@@ -43,12 +43,9 @@ ul {
   line-height: 1.4;
 }
 
-ul>ul {
-  line-height: 1;
-}
-
 .sec_list {
   list-style-type: square;
+  line-height: 1;
 }
 
 .mytable, th, td {
@@ -59,6 +56,10 @@ ul>ul {
 p {
   font-family: Helvetica, Arial;
   font-size: 16px;
+}
+
+#table_name {
+  text-indent: 30px;
 }
 
 
