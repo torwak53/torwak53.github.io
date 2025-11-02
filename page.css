@@ -67,7 +67,7 @@ header {
 }
 
 header>a {
-  font-style: italic;
+  font-style: underline;
 }
 
 
