@@ -14,17 +14,17 @@ h1 {
   text-decoration: none;
 }
 
-.mybutton:hover{
+.mybutton:hover {
   background-color: #558ff2;
   color: red;
 }
 
-#now{
+#now {
   background-color: #558ff2;
   color: black;
 }
 
-.navbar{
+.navbar {
   display: flex;
   background-color: #b0cff7;
   height: 50px;
@@ -39,11 +39,19 @@ body {
   background-color: #adcdff;
 }
 
-.sec_list{
+ul {
+  line-height: 1.4;
+}
+
+ul>ul {
+  line-height: 1;
+}
+
+.sec_list {
   list-style-type: square;
 }
 
-.mytable, th, td{
+.mytable, th, td {
   border: 1px solid black;
   padding: 3px;
 }
