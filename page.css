@@ -67,7 +67,7 @@ header {
 }
 
 header>i {
-  font-style: underline;
+  text-decoration: underline;
 }
 
 
