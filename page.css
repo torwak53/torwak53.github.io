@@ -24,7 +24,7 @@ h1 {
   color: black;
 }
 
-.navbar {
+nav {
   display: flex;
   background-color: #b0cff7;
   height: 50px;
