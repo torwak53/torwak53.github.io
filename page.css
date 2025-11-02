@@ -62,8 +62,12 @@ p {
   text-indent: 160px;
 }
 
-header<a{
+header {
   text-align: right;
+}
+
+header>a {
+  font-style: italic;
 }
 
 
