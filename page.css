@@ -43,5 +43,10 @@ body {
   list-style-type: square;
 }
 
+.mytable{
+  border: 1px, solid, black;
+  padding: 7px;
+}
+
 
 
