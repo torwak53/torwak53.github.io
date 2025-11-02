@@ -43,11 +43,9 @@ body {
   list-style-type: square;
 }
 
-.mytable{
-  border-collapse: separate;
-  border-spacing: 5px;
-  border: 1px, solid, black;
-  padding: 7px;
+.mytable, th, td{
+  border: 1px solid black;
+  padding: 3px;
 }
 
 p {
