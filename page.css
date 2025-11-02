@@ -45,6 +45,7 @@ body {
 
 .mytable{
   border-collapse: separate;
+  border-spacing: 5px;
   border: 1px, solid, black;
   padding: 7px;
 }
